@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Principal" width="100%">
-</p>
 # Hola, soy Estefanía Pose 👋
 
 Especialista en Testing de Software (QA) y Analista de Datos con una mentalidad nativa de precisión, rigor y mitigación de riesgos. Vengo de entornos de alta exigencia donde un error no se puede deshacer, una disciplina que trasladé directamente al ámbito tecnológico para asegurar la calidad del software y transformar datos en decisiones estratégicas.

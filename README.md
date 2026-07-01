@@ -1,3 +1,4 @@
+<img width="1584" height="672" alt="Gemini_Generated_Image_h1pyymh1pyymh1py" src="https://github.com/user-attachments/assets/19eedea0-d219-4dbb-b109-4ba092fca144" />
 # Hola, soy Estefanía Pose 👋
 
 Especialista en Testing de Software (QA) y Analista de Datos con una mentalidad nativa de precisión, rigor y mitigación de riesgos. Vengo de entornos de alta exigencia donde un error no se puede deshacer, una disciplina que trasladé directamente al ámbito tecnológico para asegurar la calidad del software y transformar datos en decisiones estratégicas.

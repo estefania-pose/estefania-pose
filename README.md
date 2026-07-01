@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/19eedea0-d219-4dbb-b109-4ba092fca144" width="100%" height="150" style="object-fit: cover;">
+<img src=<img width="1907" height="873" alt="image" src="https://github.com/user-attachments/assets/b10e2ad5-6b24-4dd7-881c-03453dc958ce;">
 
 # Hola, soy Estefanía Pose 👋
 

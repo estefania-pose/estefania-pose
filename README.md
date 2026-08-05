@@ -20,12 +20,13 @@ Me apasiona el análisis lógico y el control de calidad. Mi experiencia previa 
   <img src="https://img.shields.io/badge/-Lighthouse-F44336?style=flat&logo=Google-Lighthouse&logoColor=white" height="30"/>
 </p>
 
-### 📊 Datos y Versiones
-<p align="left">
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" height="30"/>
-</p>
+#### 📊 Datos, Análisis y Control de Versiones
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 

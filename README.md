@@ -10,23 +10,22 @@ Me apasiona el análisis lógico y el control de calidad. Mi experiencia previa 
 
 ---
 
-## Mis Herramientas
 
-### ⚙️ Testing y Gestión de Proyectos
-<p align="left">
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Chrome_DevTools-202124?style=flat&logo=Google-Chrome&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Lighthouse-F44336?style=flat&logo=Google-Lighthouse&logoColor=white" height="30"/>
-</p>
+### 🛠️ Mis Herramientas y Tecnologías
+
+#### 🧪 Testing y Gestión de Proyectos
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank"><img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"></a>
+<a href="https://developer.chrome.com/docs/lighthouse" target="_blank"><img src="https://img.shields.io/badge/Lighthouse-F44336?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Lighthouse"></a>
 
 #### 📊 Datos, Análisis y Control de Versiones
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 ---
 

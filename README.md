@@ -1,4 +1,5 @@
-<img width="1086" height="397" alt="foto banner" src="https://github.com/user-attachments/assets/76bfda47-061b-4b95-ba88-f916deeb9c16" />
+<img width="1584" height="672" alt="Gemini_Generated_Image_gm4t0egm4t0egm4t" src="https://github.com/user-attachments/assets/54eb14c9-daa8-4018-921c-a1bf254569f8" />
+
 
 # Hola, soy Estefanía Pose 👋
 
